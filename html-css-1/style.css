@@ -1,0 +1,52 @@
+body,
+html {
+	width: 100%;
+	background: rgb(0,255,250);
+	background: linear-gradient(15deg, rgba(0,255,250,0.1) 0%, rgba(217,255,142,0.2) 37%, rgba(214,255,154,0.3) 57%, rgba(0,184,63,0.3) 91%);
+	font-size: 16px;
+}
+.person {
+	/* добавьте ваш код  */
+}
+.person__info {
+	/* добавьте ваш код  */
+}
+.person__contacts {
+	/* добавьте ваш код  */
+}
+.person__details {
+	/* добавьте ваш код  */
+}
+.avatar {
+	/* добавьте ваш код  */
+}
+.avatar__picture {
+	/* добавьте ваш код  */
+}
+.contacts {
+	/* добавьте ваш код  */
+}
+.contacts__name {
+	/* добавьте ваш код  */
+}
+.contacts__role {
+	/* добавьте ваш код  */
+}
+.contacts__item {
+	/* добавьте ваш код  */
+}
+.contacts__title {
+	/* добавьте ваш код  */
+}
+.contacts__title:after {
+	/* добавьте ваш код  */
+}
+.contacts__link {
+	/* добавьте ваш код  */
+}
+.paragraph {
+	/* добавьте ваш код  */
+}
+.paragraph_last {
+	/* добавьте ваш код  */
+}
